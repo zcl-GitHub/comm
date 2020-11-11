@@ -10,4 +10,8 @@ public class test {
     public void add(){
         System.out.println("nihao a");
     }
+
+    public static void main(String[] args) {
+        System.out.println("andfisdjf");
+    }
 }
